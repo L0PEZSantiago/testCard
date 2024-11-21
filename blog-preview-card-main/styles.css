@@ -23,8 +23,6 @@ body {
 }
 
 
-
-
 @media screen and (min-width: 741px) {
   .container {
     width: 320px;
@@ -116,6 +114,4 @@ body {
         flex-wrap: wrap;
         justify-content: center;
     }
-
-
 }
